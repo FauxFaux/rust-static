@@ -1,0 +1,10 @@
+[package]
+authors = ["Chris West (Faux) <git@goeswhere.com>"]
+name = "utilaux"
+version = "0.1.0"
+
+[dependencies]
+byteorder = "1.1.0"
+
+[lib]
+crate-type = ["staticlib"]
